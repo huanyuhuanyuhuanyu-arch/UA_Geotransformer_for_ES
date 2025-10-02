@@ -1,6 +1,7 @@
-[![Code DOI](https://zenodo.org/badge/1067845994.svg)](https://doi.org/10.5281/zenodo.17243850)
+[![Code DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17243851.svg)](https://doi.org/10.5281/zenodo.17243851)
 [![Data DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17251210.svg)](https://doi.org/10.5281/zenodo.17251210)
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/huanyuhuanyuhuanyu-arch/UA_Geotransformer_for_ES/blob/main/notebooks/UA_suitability_Geotransformer_for_ES.ipynb)
+
 
 # UA Suitability – GeoTransformer for ES (Open Code & Data)
 
