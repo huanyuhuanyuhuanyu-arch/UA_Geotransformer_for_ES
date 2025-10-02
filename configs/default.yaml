@@ -1,0 +1,24 @@
+paths:
+  raw_dir: data/raw
+  processed_dir: data/processed
+  outputs_dir: outputs
+
+  landuse_2010: data/raw/2010_9.tif
+  landuse_2017: data/raw/2017_9.tif
+
+  # Driver rasters (individual layers shipped via the Data DOI)
+  drivers:
+    aspect: data/raw/aspect.tif
+    distance_rail: data/raw/distance_rail.tif
+    distance_road: data/raw/distance_road.tif
+    distance_water: data/raw/distance_water.tif
+    ecoreserve: data/raw/ecoreserve.tif
+    elevation: data/raw/elevation.tif
+    pop_density: data/raw/pop_density.tif
+    runoff: data/raw/runoff.tif
+    slope: data/raw/slope.tif
+    wetland: data/raw/wetland.tif
+
+params:
+  random_seed: 42
+  test_size: 0.2
