@@ -1,7 +1,5 @@
 # UA Suitability – GeoTransformer for ES (Reproducibility Package)
-
 [![DOI](https://zenodo.org/badge/1067845994.svg)](https://doi.org/10.5281/zenodo.17243850)
-
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/huanyuhuanyuhuanyu-arch/UA_Geotransformer_for_ES/blob/main/notebooks/UA_suitability_Geotransformer_for_ES.ipynb)
 
 This repository packages the code and instructions to reproduce the results from the manuscript using the original Colab notebook **UA_suitability_Geotransformer_for_ES.ipynb**.
